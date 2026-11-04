@@ -4,7 +4,7 @@
 
 ## 공개 주소
 
-- [https://student01.github.io/web-week09/](https://student01.github.io/web-week09/)
+- [최종 결과물 바로가기](https://gbox3djjac.github.io/day2026110402/)
 
 ## 페이지
 
